@@ -1,0 +1,13 @@
+# Media hech qachon main'ga tushmaydi — ular drop-YYYY-MM-DD orphan-branchlarda
+*.mp4
+*.mov
+*.m4a
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+videos/
+frames/
+audio/
