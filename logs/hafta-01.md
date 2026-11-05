@@ -49,3 +49,102 @@ Ishlatilmaganlar (shubhali yoki uchinchi tomon): AS17-148-22725/22726 (Project A
 - https://www.nasa.gov/news-release/nasa-satellite-camera-provides-epic-view-of-earth/ (~1 million mil, 2015-07-06)
 
 Tekshirilmagan va videoga kiritilmagan: suratgacha masofa, aniq vaqt, asl orientatsiya (janub tepada), suratni kim olgani (NASA butun ekipajni ko'rsatadi).
+
+## Nashr ma'lumotlari (Metricool uchun)
+
+Har bir fayl uchun: turi (`video` = uzun video, `short` = Shorts), sarlavha, tavsif va teglar. Litsenziya: yuqoridagi "Tasvirlar" va "Boshqa materiallar" jadvallari — barcha materiallar litsenziyalangan.
+
+### dfn-w01-blue-marble-explained.mp4
+
+- **Turi:** video
+- **Litsenziya:** tekshirilgan (yuqoridagi jadvallar)
+- **Sarlavha:** The Blue Marble, Explained: Apollo 17's Photo of Earth
+- **Teglar:** Blue Marble, Apollo 17, AS17-148-22727, Earth from space, NASA photos, space explained, astronomy, Apollo program, Antarctica from space, space history, science explained, DSCOVR EPIC, Earthrise, Deep Field Notes
+- **Tavsif:**
+
+```text
+One photo, the whole story: the Blue Marble, NASA catalog AS17-148-22727, taken by the Apollo 17 crew on December 7, 1972, on their way to the Moon.
+
+We read the frame the way a scientist would: what it shows (from the Mediterranean to Antarctica), why the whole planet is lit, why Antarctica was in an Apollo photo for the first time, and how NASA gets a new "Blue Marble" every day today.
+
+Chapters
+0:00 The Blue Marble
+0:35 Apollo 17 and the night launch
+1:30 Translunar coast and the catalog number
+2:09 Reading the frame: Africa, Arabia, Madagascar
+3:07 Why Earth looks completely full
+3:57 Antarctica and the December Sun
+4:30 Who took it
+4:43 From Earthrise to EPIC
+
+SOURCES & CREDITS
+Images (public domain, credit: NASA). Downloaded from Wikimedia Commons copies of NASA files:
+- AS17-148-22727 "The Blue Marble" (NASA GPN-2000-001138): https://images.nasa.gov/details/as17-148-22727
+- S72-55070 Apollo 17 night launch: https://images.nasa.gov/details/S72-55070
+- AS17-148-22718 Saudi Arabia and the Red Sea: https://images.nasa.gov/details/as17-148-22718
+- AS08-14-2383 Earthrise (Apollo 8): https://images.nasa.gov/details/as08-14-2383
+- DSCOVR/EPIC, Earth on July 6, 2015: https://www.nasa.gov/news-release/nasa-satellite-camera-provides-epic-view-of-earth/
+
+Facts:
+- NASA, Blue Marble caption: https://science.nasa.gov/resource/the-blue-marble/
+- NASA, Apollo 17 mission: https://www.nasa.gov/mission/apollo-17/
+- NASA Gateway to Astronaut Photography, AS17-148-22727: https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=AS17&roll=148&frame=22727
+- NSSDCA, Apollo 17: https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo17info.html
+- NASA EPIC: https://epic.gsfc.nasa.gov/about/epic
+
+Script, diagrams and graphics: Deep Field Notes. Narration: AI voice (Kokoro-82M, Apache-2.0).
+Deep Field Notes is an independent channel, not affiliated with or endorsed by NASA.
+```
+
+### dfn-w01-short1-why-full-earth.mp4
+
+- **Turi:** short
+- **Litsenziya:** tekshirilgan (yuqoridagi jadvallar)
+- **Sarlavha:** Why the Blue Marble Shows a FULL Earth
+- **Teglar:** Shorts, Blue Marble, Apollo 17, Earth from space, space explained, astronomy, Earth phases, NASA photos, science explained, space facts, Deep Field Notes
+- **Tavsif:**
+
+```text
+Why is Earth completely lit in Apollo 17's Blue Marble photo (December 7, 1972)? It's geometry: the Sun was more or less behind the camera. #Shorts
+
+SOURCES & CREDITS
+Image: AS17-148-22727 "The Blue Marble", credit NASA (public domain): https://images.nasa.gov/details/as17-148-22727
+Facts: https://science.nasa.gov/resource/the-blue-marble/
+Diagram, script and graphics: Deep Field Notes. Narration: AI voice (Kokoro-82M). Not affiliated with NASA.
+```
+
+### dfn-w01-short2-red-sea.mp4
+
+- **Turi:** short
+- **Litsenziya:** tekshirilgan (yuqoridagi jadvallar)
+- **Sarlavha:** The Whole Red Sea in One Apollo Photo
+- **Teglar:** Shorts, Red Sea, Apollo 17, Earth from space, Saudi Arabia from space, Africa from space, NASA photos, space history, space explained, astronomy, Deep Field Notes
+- **Tavsif:**
+
+```text
+Apollo 17 photo AS17-148-22718: Saudi Arabia, northeastern Africa, and the entire Red Sea in a single frame, something NASA calls rare in Apollo photography. #Shorts
+
+SOURCES & CREDITS
+Image: AS17-148-22718, credit NASA (public domain): https://images.nasa.gov/details/as17-148-22718
+Facts: NASA caption for AS17-148-22718 (same link)
+Script and graphics: Deep Field Notes. Narration: AI voice (Kokoro-82M). Not affiliated with NASA.
+```
+
+### dfn-w01-short3-epic-daily.mp4
+
+- **Turi:** short
+- **Litsenziya:** tekshirilgan (yuqoridagi jadvallar)
+- **Sarlavha:** NASA Gets a New 'Blue Marble' Every Day
+- **Teglar:** Shorts, DSCOVR, EPIC camera, Blue Marble, Earth from space, NASA, space explained, astronomy, Earth images, science explained, Deep Field Notes
+- **Tavsif:**
+
+```text
+In 1972 Apollo 17 took the Blue Marble. Today, NASA's EPIC camera on NOAA's DSCOVR satellite, about a million miles away, photographs Earth's whole sunlit side every 60 to 100 minutes. #Shorts
+
+SOURCES & CREDITS
+Images: AS17-148-22727 and DSCOVR/EPIC Earth (July 6, 2015), credit NASA (public domain)
+https://images.nasa.gov/details/as17-148-22727
+https://www.nasa.gov/news-release/nasa-satellite-camera-provides-epic-view-of-earth/
+Facts: https://epic.gsfc.nasa.gov/about/epic
+Diagram, script and graphics: Deep Field Notes. Narration: AI voice (Kokoro-82M). Not affiliated with NASA.
+```
